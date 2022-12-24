@@ -1,6 +1,8 @@
 
+
 <img alt="pafish-logo" src="pafish/pafish.ico" align="left" width="64px">
 
+检测VT虚拟化的工具
 # Pafish
 
 Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do.
